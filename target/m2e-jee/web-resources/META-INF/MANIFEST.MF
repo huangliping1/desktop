@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 11.0.2
+Implementation-Title: mooc-desktop
+Implementation-Version: 3.3.0
+Implementation-Vendor-Id: com.skyeye
+Implementation-URL: http://www.vip
+Created-By: Maven Integration for Eclipse
+
